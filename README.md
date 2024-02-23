@@ -1,4 +1,4 @@
-# SiPro
+![SiPro Logo](./imgs/logo_small.png)
 
 Nothing to see here...
 
